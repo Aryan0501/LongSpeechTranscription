@@ -1,2 +1,2 @@
 # LongSpeechTranscription
-Transcribing long blocks of speech using Watson Speech To Text. 
+Using IBM watson for long speech transcription
